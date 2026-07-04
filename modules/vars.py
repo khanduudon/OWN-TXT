@@ -7,13 +7,13 @@ API_ID = int(environ.get("API_ID", "29136894"))
 API_HASH = environ.get("API_HASH", "88f3d07b70de48ac1fc13866b0c9e562")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8520965543:AAG7tOwB34TOfyVc8t0JUNTBg2W7VlR09OU")
 
-OWNER = int(environ.get("OWNER", "8494053059"))
+OWNER = int(environ.get("OWNER", "8392347882"))
 CREDIT = environ.get("CREDIT", '👨‍💻𝐂𝐋𝐀𝐓 𝐎𝐖𝐍𝐄𝐑')
 CREDIT_LINK = environ.get("CREDIT_LINK", 'https://t.me/CLAT_OWNER')
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 # MongoDB Configuration
-MONGO_URL = 'mongodb+srv://moinuddinraza0007_db_user:aBbZbu1SQOtU2EXg@cluster0.kwdpwu8.mongodb.net/?appName=Cluster0'
+MONGO_URL = 'mongodb+srv://ownermood1_db_user:ownuploder@cluster0.hbx5ktm.mongodb.net/?appName=Cluster0'
 DATABASE_NAME = environ.get("DATABASE_NAME", "eagle")
 
 # Owner and Admin Configuration
