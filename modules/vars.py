@@ -17,7 +17,7 @@ MONGO_URL = 'mongodb+srv://ownermood1_db_user:ownuploder@cluster0.hbx5ktm.mongod
 DATABASE_NAME = environ.get("DATABASE_NAME", "eagle")
 
 # Owner and Admin Configuration
-OWNER_ID = int(environ.get("OWNER_ID", "8494053059"))  # Use OWNER as fallback
+OWNER_ID = int(environ.get("OWNER_ID", "8392347882"))  # Use OWNER as fallback
 ADMINS = [OWNER_ID]  # Can be extended via environment
   
 #WEBHOOK = True  # Don't change this
