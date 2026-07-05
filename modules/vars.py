@@ -8,8 +8,8 @@ API_HASH = environ.get("API_HASH", "88f3d07b70de48ac1fc13866b0c9e562")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8449457124:AAGFPovdlNdcjaUQBAMThSLNMek06lh_0iY")
 
 OWNER = int(environ.get("OWNER", "8392347882"))
-CREDIT = environ.get("CREDIT", '👨‍💻𝐂𝐋𝐀𝐓 𝐎𝐖𝐍𝐄𝐑')
-CREDIT_LINK = environ.get("CREDIT_LINK", 'https://t.me/CLAT_OWNER')
+CREDIT = environ.get("CREDIT", '𝐓𝐞𝐜𝐡 𝐱𝐯々')
+CREDIT_LINK = environ.get("CREDIT_LINK", 'https://whatsapp.com/channel/0029VbCUE8230LKHYMCduo13')
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 # MongoDB Configuration
